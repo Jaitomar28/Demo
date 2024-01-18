@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository
 <br>
-Author  -Jai Tomar
+Author  -Jai Tomar [KING]
